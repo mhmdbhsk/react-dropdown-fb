@@ -1,5 +1,9 @@
-## Originally made by [fireship.io](https://www.youtube.com/watch?v=IF6k0uZuypA)
-## Remake made by Muhammad Bhaska
+## Demo
+[Facebook Dropdown Demo](https://react-dropdown-fb.now.sh/)
+
+## Author
+Originally made by [fireship.io](https://www.youtube.com/watch?v=IF6k0uZuypA)
+Remake made by Muhammad Bhaska
 
 ## Changelog
 * Separate components

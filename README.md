@@ -1,3 +1,16 @@
+## Originally made by [fireship.io](https://www.youtube.com/watch?v=IF6k0uZuypA)
+## Remake made by Muhammad Bhaska
+
+## Changelog
+* Separate components
+
+## Screenshot
+
+<img src="https://i.imgur.com/WAd7cgE.png" >
+<img src="https://i.imgur.com/vyWdJ4e.png" >
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
